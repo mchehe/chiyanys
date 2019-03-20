@@ -143,7 +143,7 @@ html,body {height:100%; background-color:rgba(0,0,0,0);}
 }
 .myui-from-code-input{
   background-color: rgba(224,22,155, 0.2) !important;
-  width:80% !important;
+  /*width:80% !important;*/
   display:block;
   float:left;
   padding-left:34% !important;
